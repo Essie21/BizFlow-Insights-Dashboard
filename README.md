@@ -3,7 +3,7 @@
 ---
 
 ## Table of Contents
-- [Overview](#overview)
+- [Overview](#Overview)
 - [Key Business Questions](#key-business-questions)
 - [Data Source and Structure](#data-source-and-structure)
 - [Tools](#tools)
